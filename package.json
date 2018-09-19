@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/TRPGEngine/Note#readme",
   "dependencies": {
-    "debug": "^3.1.0"
+    "debug": "^3.1.0",
+    "xss": "^1.0.3"
   }
 }
